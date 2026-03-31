@@ -45,7 +45,7 @@ Setup Environment:
 Untuk memudahkan institusi dalam memonitor faktor penentu dropout, sebuah dashboard berjudul "Jaya Jaya Institut Performance & Dropout Detection" telah dibangun. (Screenshot terlampir pada direktori herlanjae-dashboard).
 Berikut adalah fitur visualisasi beserta insight yang diperoleh:
 1. Proporsi Mahasiswa (Lulus vs Dropout) (Pie Chart)
-   - Insight: Rasio dropout menyentuh angka sekitar 39%. Angka ini sangat tinggi dan mengonfirmasi adanya masalah retensi mahasiswa yang serius di institusi.
+   - Insight: Rasio dropout menyentuh angka sekitar 34.6%. Angka ini sangat tinggi dan mengonfirmasi adanya masalah retensi mahasiswa yang serius di institusi.
 
 2. Pengaruh Keteraturan Bayar Uang Kuliah (Bar Chart)
    - Insight: Keteraturan membayar uang kuliah (Tuition_fees_up_to_date) adalah faktor penahan dropout terkuat. Mahasiswa yang menunggak memiliki lonjakan rasio dropout yang sangat ekstrem dibandingkan yang membayar tepat waktu.
