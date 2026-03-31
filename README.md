@@ -47,6 +47,7 @@ Aplikasi prototype dijalankan menggunakan environment **Conda**. Berikut cara me
    streamlit run app.py
    ```
 5. Akses aplikasi melalui browser pada URL http://localhost:8501.
+6. Akses aplikasi yang telah di deploy ke cloud pada URL https://pds-submission-2-egfzyixr2zrjoapgbgwku2.streamlit.app/
 
 ---
 
